@@ -1,0 +1,12 @@
+# Data
+path: C:\Users\Lenovo\PycharmProjects\YOLO-butterflies\data
+train: images/val  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Keypoints
+kpt_shape: [9, 3]  # [number of keypoints, number of dim]
+flip_idx: [1,0,2,3,4,5,6,7,8]  # horizontally flipped keypoints list
+
+# Classes
+names:
+  0: butterfly

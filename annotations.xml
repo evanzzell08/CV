@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1898597</id>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-12-26 19:50:11.517243+00:00</created>
+      <updated>2024-12-27 10:24:39.237467+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1901063</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/jobs/1898597</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>evanzzell08</username>
+        <email>evanzzell08@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>butterfly-key-points</name>
+          <color>#f00d1f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>butterfly</name>
+          <color>#a0c080</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>keypoint</name>
+          <color>#a601ba</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-01-07 13:28:39.084821+00:00</dumped>
+  </meta>
+  <image id="0" name="Image_1.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="145.99,1.83;157.08,22.17;121.60,31.04;79.46,46.56;43.60,76.87;112.36,155.60;52.11,93.51;188.50,181.11;100.53,161.89" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="10.71" ytl="1.84" xbr="206.98" ybr="220.29" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Image_10.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="93.50,7.38;147.84,8.86;119.38,51.00;116.79,86.11;120.86,146.36;44.34,145.62;101.27,168.17;195.53,173.35;146.73,179.26" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="10.71" ytl="1.47" xbr="221.03" ybr="215.49" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Image_100.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="180.00,82.79;219.92,131.58;179.26,130.84;151.17,140.08;107.18,170.39;72.07,65.78;42.50,155.97;157.08,149.32;102.01,193.68" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.84" ytl="25.12" xbr="224.00" ybr="215.12" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Image_11.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="38.43,71.33;42.86,19.95;90.92,36.58;121.97,52.48;170.02,82.79;97.94,176.30;165.21,127.14;116.42,70.96;182.22,107.18" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="33.99" ytl="11.82" xbr="207.72" ybr="218.44" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="Image_12.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="218.44,127.51;201.44,138.97;177.78,153.76;173.72,177.41;162.26,201.81;95.72,42.86;80.57,165.21;85.00,46.19;66.89,184.81" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="29.56" ytl="5.90" xbr="222.51" ybr="217.33" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="Image_13.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="75.02,10.71;120.12,26.60;80.57,59.13;73.54,84.63;53.21,144.88;119.75,40.65;87.59,125.66;186.65,112.73;87.59,168.17" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="39.91" ytl="7.75" xbr="211.42" ybr="197.37" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="Image_14.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="33.25,120.12;83.16,57.65;97.57,124.55;117.53,137.86;154.86,165.21;51.00,184.44;142.30,202.55;163.74,66.52;192.20,143.41" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.12" ytl="5.90" xbr="224.00" ybr="224.00" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="Image_15.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="2.94,124.19;25.49,45.82;66.89,103.12;92.03,113.10;140.45,132.32;53.21,164.11;138.60,174.46;131.95,37.69;185.91,115.68" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="0.00" ytl="1.47" xbr="224.00" ybr="204.03" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="Image_16.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="78.72,7.38;119.75,6.64;105.33,33.62;111.62,77.24;114.57,143.41;53.58,112.36;81.68,159.67;177.78,105.70;140.45,161.15" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="2.20" ytl="3.31" xbr="222.51" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="Image_17.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="217.70,90.18;219.18,107.55;189.61,147.84;175.93,159.30;172.24,174.83;37.69,27.34;61.35,160.41;27.71,43.60;80.20,181.10" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="0.00" ytl="5.90" xbr="222.88" ybr="216.22" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="Image_18.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="91.66,18.10;170.76,62.46;113.10,73.18;102.38,99.42;90.92,150.43;40.28,52.11;45.82,142.67;185.18,126.03;128.99,185.54" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.90" ytl="8.12" xbr="217.33" ybr="220.66" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="Image_19.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="189.61,54.32;221.40,77.24;194.42,99.05;182.59,127.51;155.97,155.60;26.97,46.56;42.86,156.71;65.04,59.13;78.72,176.67" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="14.77" ytl="22.53" xbr="224.00" ybr="211.79" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="Image_2.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="160.04,49.52;208.09,93.87;156.34,102.01;139.34,115.31;106.07,143.04;60.24,42.86;41.39,121.97;192.94,143.78;108.29,189.24" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.97" ytl="6.27" xbr="222.88" ybr="217.33" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="Image_20.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="39.91,86.11;82.79,28.08;94.24,91.29;113.47,104.22;146.36,134.53;79.83,113.47;136.01,151.91;143.78,24.38;165.58,110.14" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="35.10" ytl="0.00" xbr="199.22" ybr="175.20" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="Image_21.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="64.67,24.38;146.36,26.60;105.70,47.30;107.55,90.92;108.66,144.88;38.80,80.57;69.11,170.39;184.44,103.12;145.99,183.33" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.97" ytl="18.10" xbr="218.44" ybr="222.14" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="Image_22.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="52.48,93.14;123.08,12.92;104.59,96.46;111.25,115.31;126.40,161.89;30.30,178.52;101.27,191.83;184.07,49.89;149.69,159.67" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="2.94" ytl="11.45" xbr="222.51" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="Image_23.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="179.26,81.31;214.75,101.27;180.74,127.88;165.21,150.43;150.43,179.63;54.32,42.13;67.26,191.83;36.21,42.86;46.93,179.26" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.97" ytl="5.53" xbr="219.18" ybr="215.86" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="Image_24.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="14.77,65.41;24.38,64.30;18.47,121.97;30.67,139.71;58.02,169.65;41.39,65.78;72.07,146.36;170.39,40.28;143.04,178.15" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.53" ytl="3.68" xbr="216.96" ybr="211.79" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="Image_25.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="96.83,12.19;141.19,20.32;111.99,64.67;108.66,89.44;100.53,147.47;37.32,63.20;62.83,155.60;174.46,112.73;124.92,185.54" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.53" ytl="10.34" xbr="217.70" ybr="215.12" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="Image_26.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="213.27,176.67;218.44,151.17;186.65,114.94;171.87,118.27;164.11,135.27;40.28,31.41;74.28,170.76;36.21,54.69;93.14,186.65" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.90" ytl="12.19" xbr="221.40" ybr="220.66" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="Image_27.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="83.53,43.60;100.53,29.93;111.62,107.92;117.90,133.43;128.25,173.35;36.58,147.47;101.64,215.49;187.02,59.50;168.17,194.42" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.10" ytl="18.47" xbr="221.03" ybr="223.25" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="Image_28.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="189.61,210.31;219.92,191.83;170.39,170.02;161.52,181.48;149.32,192.57;147.50,66.50;62.80,146.40;173.72,43.97;86.80,127.20" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="36.21" ytl="19.58" xbr="223.99" ybr="215.86" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="Image_29.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="7.75,104.96;11.82,134.17;36.95,152.65;51.74,170.39;74.28,184.81;172.98,32.52;176.30,165.95;185.18,42.50;164.85,179.63" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="2.94" ytl="5.90" xbr="219.55" ybr="208.09" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="Image_3.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="102.75,44.71;143.78,43.23;127.51,100.16;126.03,121.97;126.77,154.86;56.91,52.85;79.46,174.09;193.68,45.45;176.30,173.35" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="25.86" ytl="13.66" xbr="223.62" ybr="213.64" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="Image_30.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="93.88,214.01;94.98,192.20;65.04,151.17;53.21,130.47;45.08,111.25;199.22,128.25;115.68,42.86;204.03,111.99;101.64,49.15" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="22.90" ytl="19.21" xbr="222.88" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="Image_31.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="49.89,84.63;83.89,52.11;93.10,95.70;105.70,113.50;121.60,148.95;34.40,130.80;104.20,162.30;164.80,67.30;146.00,146.40" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.49" ytl="49.52" xbr="188.13" ybr="177.04" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="Image_32.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="182.22,11.45;169.65,5.53;172.61,75.76;166.69,98.68;165.95,134.53;35.47,89.44;123.82,193.68;20.32,122.34;118.27,208.09" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.10" ytl="5.16" xbr="207.72" ybr="222.88" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="Image_33.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="72.44,10.71;75.76,27.71;61.72,76.87;58.76,103.86;66.52,160.41;182.59,165.95;97.57,183.33;185.91,175.56;90.55,185.91" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="18.47" ytl="8.49" xbr="208.83" ybr="211.79" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="Image_34.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="4.05,131.21;4.05,117.90;31.78,155.60;61.35,178.52;93.51,194.79;103.86,58.02;168.91,172.24;101.64,45.08;176.67,177.04" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.10" ytl="17.73" xbr="208.46" ybr="212.90" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="Image_35.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="75.39,98.31;116.05,64.67;121.60,117.90;139.71,139.34;158.93,165.21;28.08,128.25;128.62,198.48;157.82,36.21;200.33,143.04" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="3.68" ytl="7.01" xbr="221.40" ybr="220.66" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="Image_36.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="97.57,4.05;119.38,1.84;109.77,29.93;113.47,63.56;121.97,130.10;36.58,123.82;102.01,190.35;188.87,56.54;154.86,163.74" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.05" ytl="1.47" xbr="222.88" ybr="218.44" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="Image_37.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="81.68,22.17;134.17,18.47;108.29,63.20;107.55,94.98;108.29,145.62;24.38,31.04;48.78,186.65;191.46,23.27;163.74,180.00" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.10" ytl="0.00" xbr="217.33" ybr="222.88" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="Image_38.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="89.07,23.64;132.32,20.32;113.47,86.48;114.57,110.88;113.47,161.15;36.58,120.49;86.85,185.54;187.39,105.33;142.30,186.28" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.90" ytl="17.36" xbr="222.88" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="Image_39.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="182.59,127.51;215.49,154.86;169.65,160.78;156.34,171.13;140.45,184.44;73.54,26.23;45.45,193.31;87.59,42.13;73.18,191.09" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="15.88" ytl="4.42" xbr="221.77" ybr="222.14" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="Image_4.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="159.67,32.15;171.87,59.50;141.56,68.00;134.17,85.00;136.01,104.96;43.97,136.01;107.92,165.95;42.86,141.93;116.42,164.11" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="27.34" ytl="30.67" xbr="177.04" ybr="192.20" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="Image_40.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="111.99,47.30;124.19,57.28;111.99,98.68;111.99,121.97;108.66,159.30;37.32,50.63;70.22,174.09;188.87,47.30;149.32,172.61" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.60" ytl="12.55" xbr="215.49" ybr="204.40" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="Image_41.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="126.77,31.41;164.85,24.75;108.66,48.78;80.94,52.11;58.02,72.81;134.17,189.61;50.26,167.43;188.50,179.63;82.42,163.74" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="20.32" ytl="21.80" xbr="208.09" ybr="218.44" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="Image_42.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="194.79,69.11;209.57,32.52;180.00,106.44;158.93,114.57;150.80,146.36;24.38,100.90;87.59,185.91;35.10,51.37;86.11,157.82" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.49" ytl="29.19" xbr="215.49" ybr="220.66" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="Image_43.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="183.70,80.94;220.29,48.04;194.42,111.99;180.00,146.73;153.39,180.00;89.07,75.39;94.24,170.02;35.10,69.11;66.89,164.11" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.90" ytl="40.28" xbr="224.00" ybr="212.16" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="Image_44.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="51.37,7.38;115.31,2.57;97.20,66.15;106.44,90.18;124.55,148.21;34.73,125.29;107.55,180.37;191.83,44.34;158.56,157.45" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.79" ytl="0.73" xbr="219.18" ybr="219.92" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="Image_45.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="7.38,141.93;6.64,148.58;41.02,101.27;52.48,70.22;73.91,53.95;171.13,177.78;167.06,56.17;176.30,171.50;159.30,52.48" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.05" ytl="26.23" xbr="206.24" ybr="204.03" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="Image_46.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="65.78,4.42;85.00,4.42;86.11,48.04;102.01,69.85;124.55,120.86;32.15,137.86;120.86,183.33;161.15,30.67;175.56,103.12" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.79" ytl="1.10" xbr="212.90" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="Image_47.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="106.07,4.42;125.29,2.94;112.73,28.45;113.47,59.87;113.10,136.75;36.95,45.82;80.57,182.59;189.98,54.69;142.30,181.48" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.49" ytl="1.84" xbr="224.00" ybr="221.40" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="Image_48.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="97.57,4.79;119.01,2.57;109.03,31.78;109.40,61.72;109.40,94.61;39.54,79.46;87.22,150.80;175.20,59.13;129.73,145.25" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.12" ytl="1.10" xbr="215.12" ybr="221.40" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="Image_49.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="116.42,125.66;213.27,112.73;164.11,116.79;147.47,145.25;131.21,179.26;38.06,82.05;106.07,154.13;141.19,36.95;132.69,136.01" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="2.57" ytl="12.55" xbr="218.44" ybr="213.27" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="Image_5.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="87.96,43.23;140.08,42.50;111.99,109.40;113.10,134.17;114.57,173.35;32.15,41.39;56.17,186.65;194.79,45.08;165.95,187.76" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.05" ytl="10.71" xbr="218.81" ybr="220.29" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="Image_50.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="120.49,3.68;143.78,3.68;130.47,36.95;126.77,73.18;121.23,124.19;39.54,60.61;86.85,152.28;201.07,153.02;138.60,184.44" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.60" ytl="1.84" xbr="222.51" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="Image_51.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="95.72,9.60;136.01,9.60;117.53,76.87;117.90,103.49;113.10,157.82;42.13,99.42;86.85,167.43;188.50,128.62;144.52,183.70" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="13.29" ytl="4.79" xbr="214.75" ybr="211.79" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="Image_52.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="169.28,2.94;197.37,25.12;177.04,32.52;178.89,55.80;188.50,94.61;57.65,106.44;177.04,189.61;45.45,110.14;156.34,178.89" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="12.55" ytl="2.20" xbr="211.79" ybr="216.22" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="Image_53.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="98.31,4.42;159.30,1.47;139.71,22.53;138.97,51.37;147.84,102.01;53.95,99.05;136.01,127.88;187.76,104.22;159.67,128.62" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="15.51" ytl="1.47" xbr="208.83" ybr="207.35" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="Image_54.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="220.66,132.69;222.51,141.93;206.24,148.58;188.87,162.63;164.11,176.30;111.62,43.97;56.17,151.91;168.91,144.15;77.61,183.33" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="29.19" ytl="20.32" xbr="224.00" ybr="201.07" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="Image_55.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="202.92,187.02;206.98,183.33;206.98,120.86;190.35,90.18;141.19,51.00;98.31,200.33;62.46,75.76;94.98,207.72;65.78,63.56" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="17.73" ytl="5.16" xbr="216.96" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="Image_56.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="193.68,75.76;222.51,123.45;193.68,130.10;180.00,146.36;151.91,168.91;103.86,27.71;48.41,148.21;116.79,31.04;52.11,140.45" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="18.10" ytl="8.49" xbr="224.00" ybr="197.37" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="Image_57.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="211.05,136.75;212.16,155.97;183.33,152.28;156.71,168.17;115.68,175.93;128.62,33.62;63.93,149.32;138.60,42.86;76.87,150.80" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="37.69" ytl="0.00" xbr="219.92" ybr="182.59" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="Image_58.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="108.29,8.12;128.62,8.12;111.62,44.34;107.18,68.00;98.31,106.81;44.71,43.23;60.61,145.62;180.37,47.30;126.77,147.10" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="17.73" ytl="1.84" xbr="214.38" ybr="215.49" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="Image_59.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="101.64,5.90;123.45,5.53;111.99,45.08;111.62,71.33;112.36,115.68;38.80,60.24;84.63,158.56;182.22,58.76;133.06,162.26" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.86" ytl="2.94" xbr="210.68" ybr="221.03" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="Image_6.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="160.78,36.95;181.85,4.05;175.20,83.16;168.54,106.44;156.71,176.67;18.10,133.43;128.62,180.37;41.39,129.73;119.01,170.76" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="6.27" ytl="1.47" xbr="219.18" ybr="212.53" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="Image_60.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="35.84,130.47;69.48,190.35;96.46,124.19;118.27,104.22;142.30,83.16;54.69,42.86;130.84,37.32;146.36,178.15;174.46,101.27" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.49" ytl="3.31" xbr="206.24" ybr="219.55" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="Image_61.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="100.90,3.31;132.32,2.94;115.68,26.60;114.57,58.02;115.31,126.77;38.43,86.48;85.74,178.89;187.76,85.00;137.12,180.00" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="11.82" ytl="1.47" xbr="218.81" ybr="223.99" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="Image_62.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="41.02,160.04;41.02,168.17;46.93,166.32;50.63,172.98;58.76,184.81;70.96,44.34;100.16,167.80;186.28,104.22;110.14,165.21" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="14.03" ytl="7.75" xbr="214.75" ybr="208.83" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="Image_63.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="212.16,140.45;221.77,140.82;184.81,164.11;167.06,171.87;142.67,182.59;58.02,62.09;31.04,152.65;159.67,48.04;96.83,154.13" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.47" ytl="20.69" xbr="224.00" ybr="214.75" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="Image_64.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="72.44,8.86;106.81,8.49;99.05,94.98;101.64,129.36;103.12,171.87;31.04,56.91;77.61,188.87;184.81,54.69;145.62,198.48" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="2.57" ytl="1.84" xbr="222.88" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="Image_65.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="48.41,102.38;90.55,75.76;99.42,109.77;122.34,119.38;162.63,133.80;66.15,158.93;151.91,152.28;140.45,34.36;177.41,115.31" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="32.88" ytl="4.79" xbr="201.44" ybr="181.48" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="Image_66.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="108.66,52.11;120.86,53.58;105.33,74.28;107.55,96.83;115.31,126.03;32.52,114.94;97.57,174.83;177.04,48.04;149.32,155.97" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="7.01" ytl="16.25" xbr="210.68" ybr="206.20" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="Image_67.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="104.59,3.68;173.35,25.49;128.99,51.37;117.90,98.31;109.77,157.08;49.89,103.86;89.44,159.30;177.41,156.71;129.36,174.09" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="12.55" ytl="1.10" xbr="207.35" ybr="211.79" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="Image_68.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="121.97,5.53;175.93,55.06;124.19,66.89;114.57,87.59;103.12,124.55;42.50,44.71;62.83,154.86;186.28,134.17;121.23,189.61" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="11.45" ytl="1.10" xbr="221.03" ybr="222.51" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="Image_69.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="135.27,68.74;77.61,62.09;96.09,65.04;94.61,93.14;88.70,143.78;162.63,111.25;110.88,161.15;43.60,60.61;69.11,141.19" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="20.32" ytl="26.97" xbr="205.51" ybr="195.53" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="Image_7.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="84.26,6.64;175.20,43.23;112.36,75.39;107.92,103.86;104.22,151.17;39.54,86.48;77.24,182.96;187.76,103.12;125.66,194.05" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.10" ytl="4.79" xbr="221.40" ybr="221.40" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="Image_70.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="97.57,183.33;129.73,187.76;112.36,162.63;115.31,137.49;118.27,111.25;42.50,101.64;102.01,33.99;187.76,170.39;158.19,47.30" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.86" ytl="2.20" xbr="218.44" ybr="199.22" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="Image_71.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="73.91,10.34;114.57,6.27;106.07,33.62;106.81,61.72;109.40,111.99;48.78,177.78;94.24,173.35;194.05,114.57;134.90,158.93" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="28.82" ytl="3.31" xbr="218.07" ybr="214.75" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="Image_72.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="27.34,157.82;76.13,158.93;79.83,100.53;92.77,79.09;113.84,70.96;167.80,182.22;180.37,91.66;183.70,179.63;186.28,87.22" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="25.12" ytl="31.78" xbr="209.94" ybr="211.05" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="Image_73.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="19.21,119.38;31.04,113.84;10.34,89.07;26.60,79.83;47.67,76.50;172.98,167.06;119.75,65.78;161.52,158.19;110.14,63.56" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.42" ytl="39.91" xbr="192.20" ybr="187.02" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="Image_74.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="91.29,4.42;109.40,2.94;107.92,33.99;113.84,60.24;128.25,115.31;35.10,124.92;110.51,172.61;180.37,42.86;167.43,149.32" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.49" ytl="1.10" xbr="220.29" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="Image_75.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="113.83,2.57;128.25,3.68;119.40,22.20;120.86,50.63;119.75,107.92;44.34,104.22;187.02,111.62;87.22,166.32;144.52,156.71" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="16.25" ytl="0.00" xbr="218.81" ybr="198.11" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="Image_76.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="92.03,71.70;130.10,66.52;113.84,116.79;115.31,132.69;115.31,188.87;31.78,52.85;60.61,196.26;198.11,40.65;170.39,182.96" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="4.42" ytl="5.53" xbr="221.77" ybr="223.25" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="Image_77.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="182.22,72.07;215.12,124.19;157.82,124.55;133.06,132.69;100.53,152.28;107.92,42.13;58.02,128.62;193.68,163.00;99.42,182.22" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="28.08" ytl="22.17" xbr="223.25" ybr="202.55" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="Image_78.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="73.54,1.47;169.65,17.73;114.94,42.50;113.84,69.48;110.51,119.75;43.23,81.31;86.11,144.88;181.11,113.84;122.34,155.23" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.97" ytl="0.36" xbr="213.27" ybr="197.74" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="Image_79.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="69.11,39.91;153.39,32.88;116.42,83.16;116.05,109.03;113.10,156.71;39.17,72.44;63.20,184.07;191.46,65.04;167.06,178.89" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.97" ytl="28.08" xbr="217.70" ybr="223.62" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="Image_8.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="32.52,6.27;166.69,2.94;117.90,107.55;119.38,162.63;141.93,187.76;156.34,85.74;163.74,168.91;163.74,84.63;156.34,164.85" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="15.51" ytl="1.10" xbr="188.50" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="Image_80.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="221.03,129.73;218.44,202.55;180.00,147.84;156.34,160.04;102.75,185.54;33.99,56.17;57.28,153.76;67.26,30.67;72.07,123.45" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="10.34" ytl="3.31" xbr="223.25" ybr="220.29" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="Image_81.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="161.89,202.55;215.12,190.72;144.52,185.54;124.55,170.02;75.76,133.06;81.31,144.88;24.38,99.05;172.24,56.91;74.28,85.74" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="17.36" ytl="9.23" xbr="220.66" ybr="222.51" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="Image_82.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="61.72,32.88;132.69,14.03;109.77,80.94;110.51,106.44;111.99,159.30;32.15,161.89;86.85,190.72;195.53,148.95;146.36,187.39" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.47" ytl="11.45" xbr="220.66" ybr="218.44" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="Image_83.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="101.27,21.80;48.41,41.02;74.28,68.74;51.37,83.89;28.82,139.34;166.69,195.16;45.45,201.07;166.32,202.55;49.52,198.48" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="7.38" ytl="17.73" xbr="204.03" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="Image_84.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="104.96,2.94;116.42,2.94;107.55,21.80;108.29,54.69;109.03,106.07;33.62,54.69;80.94,165.58;188.87,75.39;138.60,171.50" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="5.53" ytl="0.73" xbr="222.88" ybr="220.29" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="Image_85.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="97.20,11.80;137.12,13.29;119.01,63.56;120.86,90.55;122.34,139.34;54.69,74.65;89.81,168.54;183.33,58.76;148.21,165.58" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="12.55" ytl="5.53" xbr="223.25" ybr="212.53" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="Image_86.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="96.09,82.79;128.62,84.26;112.73,112.73;113.47,134.53;113.84,170.02;35.10,43.60;43.97,188.87;190.72,43.60;179.63,184.07" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="6.64" ytl="5.53" xbr="217.70" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="Image_87.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="126.77,13.66;156.34,34.73;152.65,81.31;152.28,96.09;157.45,113.10;45.08,182.59;127.88,198.11;51.00,166.69;143.04,180.00" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="18.84" ytl="9.60" xbr="172.61" ybr="221.77" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="Image_88.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="94.98,52.48;128.25,44.34;119.38,108.29;118.27,127.14;118.64,174.83;42.86,50.63;69.48,185.18;197.74,44.34;171.13,180.37" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="9.60" ytl="5.53" xbr="224.00" ybr="219.55" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="Image_89.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="6.64,72.44;5.16,154.50;51.00,128.99;57.28,143.41;65.78,161.15;175.56,55.80;131.95,167.80;182.59,49.89;143.04,160.41" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="3.31" ytl="21.06" xbr="213.27" ybr="202.20" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="Image_9.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="209.94,177.04;155.60,207.72;151.54,188.50;130.47,173.35;92.77,163.37;182.59,45.82;86.48,112.73;82.42,192.20;45.82,160.78" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="12.55" ytl="5.20" xbr="217.30" ybr="211.42" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="Image_90.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="142.67,1.83;175.56,24.38;135.27,76.13;131.95,95.35;121.23,139.71;52.85,43.97;76.87,161.15;191.83,112.73;141.19,184.44" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="15.51" ytl="0.36" xbr="219.92" ybr="213.27" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="Image_91.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="194.42,128.25;222.14,144.88;171.50,162.63;150.43,170.76;109.03,204.03;71.33,43.60;39.54,155.60;86.11,38.43;53.21,151.54" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.49" ytl="11.82" xbr="224.00" ybr="220.66" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="Image_92.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="41.39,6.27;30.67,13.66;46.93,69.48;45.45,85.37;31.78,104.22;189.98,132.69;85.74,179.63;181.11,124.55;85.74,174.83" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="21.80" ytl="2.94" xbr="212.90" ybr="213.64" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="Image_93.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="159.30,7.38;184.44,7.75;179.26,57.65;186.28,81.68;191.83,107.92;70.96,135.27;159.30,185.18;58.76,130.10;159.30,177.41" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="26.60" ytl="3.68" xbr="199.22" ybr="211.05" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="Image_94.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="3.31,111.62;1.84,122.34;23.64,144.15;38.06,166.32;50.26,184.81;147.10,43.60;150.80,181.48;136.01,44.34;140.82,175.20" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="1.10" ytl="7.38" xbr="201.07" ybr="206.24" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="Image_95.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="106.81,220.66;137.49,221.03;128.25,208.46;130.10,178.89;137.12,116.79;52.85,133.43;103.12,56.54;195.16,128.62;174.09,59.13" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="11.45" ytl="22.90" xbr="220.29" ybr="223.25" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="Image_96.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="79.46,54.69;125.66,58.39;104.59,77.61;103.86,91.66;103.86,119.38;52.11,115.68;88.70,146.36;151.17,114.57;124.19,143.78" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="35.10" ytl="51.74" xbr="175.56" ybr="160.78" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="Image_97.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="69.48,15.51;131.95,15.88;99.79,50.63;100.16,72.81;99.05,108.29;37.32,101.27;79.46,174.83;182.96,99.05;116.05,173.72" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="11.08" ytl="14.03" xbr="212.16" ybr="218.81" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="Image_98.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="96.46,58.02;128.99,66.52;109.03,97.57;104.59,113.84;98.31,150.43;38.06,36.21;44.34,155.60;193.31,84.26;140.45,186.65" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="8.12" ytl="2.94" xbr="222.51" ybr="219.18" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="Image_99.jpg" width="224" height="224">
+    <points label="butterfly-key-points" source="manual" occluded="0" points="196.38,39.54;219.29,65.41;189.35,109.40;184.55,130.10;174.94,156.71;118.75,89.44;101.75,192.57;49.63,68.00;69.96,191.46" z_order="0">
+    </points>
+    <box label="butterfly-key-points" source="manual" occluded="0" xtl="21.17" ytl="36.95" xbr="220.77" ybr="221.77" z_order="0">
+    </box>
+  </image>
+</annotations>
